@@ -3,6 +3,10 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+.midsize {
+    font-size: 24px;
+}
+
 #two {
     color: blue;
     font-size: 36px;
